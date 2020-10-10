@@ -1,0 +1,2 @@
+# Potrero-Digital---Curso-Frontend---Ejercicios-HTML
+debera seguir el siguiente esquema:  -Una carpeta por cada ejercicio, nombre: potreroDigital_html_ejercicioX -(donde X es el número del ejercicio) -Adentro de cada carpeta deberán estar TODOS los archivos correspondientes al ejercicio (incluyendo imágenes). Cada carpeta de ejercicio deberá contener todos los archivos HTML y una carpeta llamada images (en el caso que haya imágenes), donde estarán guardadas las imágenes correspondientes al ejercicio.   Adjuntar link del repositorio de github como respuesta al ejercicio.
