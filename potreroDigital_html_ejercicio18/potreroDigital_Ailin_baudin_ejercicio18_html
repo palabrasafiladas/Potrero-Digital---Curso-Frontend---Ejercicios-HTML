@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Epilogue:wght@300&display=swap" rel="stylesheet">
+
+    <title>Studio-contable</title>
+</head>
+<body>
+    <header> 
+        
+    <img class="logo" src="./logoverde.png" alt="logo">
+     <ul>
+         <li>
+             <a href="Consultas">consultas</a>
+         </li>
+     </ul>
+     <ul>
+        <li>
+            <a href="Quienes somos">Quienes somos</a>
+        </li>
+    </ul>
+    
+    <ul>
+        <li>
+            <a href="Contactanos">contacto</a>
+        </li>
+    </ul>
+    
+    <ul>
+        <li>
+            <a href="Direccion">direccion</a>
+        </li>
+    </ul>
+    
+    </header>
+    
+<main>
+    <div class="texto"> 
+
+        <h2>ESTUDIO OFRECE ASESORAMIENTO EN MATERIA IMPOSITIVA, CONTABLE, LABORAL Y SOCIETARIA.</h2> 
+        <p> Nuestro objetivo es construir relaciones de largo plazo con nuestros clientes, manteniendo una comunicación proactiva, ofreciéndoles atención personalizada acorde a las necesidades de cada uno de ellos y poniéndoles a disposición soluciones eficientes.
+        Lorem ipsum dolor sianditiis maiores omnis soluta possimus totam earum tempore placeat explicabo laborum aut numquam minima vero consequuntur magni voluptas, minus debitis voluptatibus! Nam, veritatis! Quae aut velit soluta hic eum nam, delectus aspernatur quas? Enim quisquam eaque nostrum repellat eos harum inventore magni voluptas tempora illo perferendis ea dolorem, vitae officia. Sit reiciendis in harum quos! Quam impedit quos perferendis sint ea fugit optio deleniti doloribus. Sunt obcaecati, laborum id nesciunt cum esse facilis inventore tempore necessitatibus, deserunt asperiores vitae.
+        </p>
+    
+    </div>
+    <hr>
+        <div class= "vision">
+        <img class= "calculadora" src="./unnamed.jpg" alt="imagen">
+        <div class= "container">
+            <h2>VISIÓN, MISIÓN Y VALORES</h2>
+            <p>Ser un Estudio reconocido por la excelenis dicta impedit distinctio ipsum magni animi, omnis dolorem debitis odit iure vitae, at perferendis voluptates aliquid mollitia eos delectus asperiores iste enim maiores? Tempore ad distinctio nostrum sit asperiores voluptates earum vitae porro possimus optio, fugit, expedita iure temporibus dolor repudiandae modi quam voluptatum quibusdam beatae nulla. Dignissimos repellendus illo labore doloremque vitae laborum natus et in numquam, similique suscipit nostrum iste sed? Necessitatibus nobis minus reprehenderit deserunt laboriosam voluptatum fugiat similique. Cumque eaque minima, ad rem aperiam distinctio? Expedita et enim natus odit amet. In maiores iusto dolore blanditiis.
+            </p>
+        </div>
+    </div>
+    <hr>
+ <div class="texto">
+       
+    <h2>MISION</h2>
+    <p>Brindar a nuestros clientes un servicio de alto nivel profesional, ofreciéndole soluciones concretas a sus necesidades y acompañándolos en su crecimiento. Nuestra filosofía es generar valor para optimizar su efectividad y productividad. Nos motiva la búsqueda permanente de la satisfacción del cliente.</p><hr> 
+
+    <h2>VALORES</h2>
+
+
+    <P>Compromiso <br>
+        Responsabilidad <br>
+        Profesionalismo <br>
+        Vocación de servicio <br>
+        Ética, Honestidad y Transparencia <br>
+        Integridad y Respeto <br>
+        Confidencialidad.</P> 
+ </div>
+    
+    
+ <div class= "input">
+    <h2>Dejanos tu pregunta</h2><input type="Dejanos tu consulta" name="recibir informacion personalizada" placeholder="¿Como podemos ayudarte?"></p>
+    <input type="reset" value="Recibir informacion">
+</div>
+</main>
+
+<footer>
+    
+    <div>
+        <h3>Email de contacto:</h3>
+        <p>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis eaque doloremque quos error in odio ullam dolorem est, quibusdam expedita nihil minus. Amet asperiores dolor itaque! Minima iusto praesentium ab.
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. <br> Vero quae, vitae inventore ratione ipsa tempora assumenda illo quisquam magni quaerat enim, ullam eligendi fuga sit maxime porro maiores nisi molestiae nobis modi! Doloremque nobis quae explicabo omnis magnam iure, non cum consequuntur esse delectus reprehenderit voluptas qui, cumque harum tenetur.
+       </p>
+    </div>
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.8746850116368!2d-58.389301784993705!3d-34.85937597857672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcd52716899b65%3A0xaef4d459d36800dd!2sLongchamps!5e0!3m2!1ses!2sar!4v1601754491823!5m2!1ses!2sar"  allowfullscreen="" aria-hidden="false";
+    tabindex="0"></iframe>
+
+
+</footer>
+
+</body>
+</html>
